@@ -1,7 +1,3 @@
-### EXP NO: 05
-
-### Date: 25/10/22
-
 # <p align = "center"> Design simulate an environment for Robot Painting using Robo DK </p>
 
  
